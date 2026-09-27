@@ -362,7 +362,7 @@ Prediction-panne-d-un-avion/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/fatoudiouf/Prediction-panne-d-un-avion.git
+git clone https://github.com/FatouDiouf9819/Prediction-panne-d-un-avion.git
 cd Prediction-panne-d-un-avion
 ```
 
@@ -486,10 +486,10 @@ Plusieurs pistes pourraient être envisagées pour approfondir le projet :
 
 ### 🔗 GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-fatoudiouf-black?logo=github)](https://github.com/fatoudiouf)
+[![GitHub](https://img.shields.io/badge/GitHub-fatoudiouf-black?logo=github)](https://github.com/FatouDiouf9819)
 
 **Profil GitHub :**  
-https://github.com/fatoudiouf
+https://github.com/FatouDiouf9819
 
 ---
 
